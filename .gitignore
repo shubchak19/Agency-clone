@@ -5,6 +5,10 @@ Thumbs.db:encryptable
 ehthumbs.db
 ehthumbs_vista.db
 
+# Folders
+node_modules
+.qodo
+
 # Dump file
 *.stackdump
 
@@ -20,6 +24,7 @@ $RECYCLE.BIN/
 *.msix
 *.msm
 *.msp
+*.qodo
 
 # Windows shortcuts
 *.lnk
